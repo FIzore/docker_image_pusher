@@ -1,4 +1,4 @@
-extension_back
-extension_sql
+flzore/extension_back:2.2
+flzore/extension_sql:2.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
