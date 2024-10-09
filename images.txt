@@ -1,4 +1,4 @@
-flzore/extension_back:2.9
-flzore/extension_sql:2.9
+flzore/extension_back:3.0
+flzore/extension_sql:3.0
 #支持指定架构
 
